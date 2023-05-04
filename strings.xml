@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework2_6</string>
+    <string name="pankratov_maksim_ribo_02_21_variant_5">Pankratov_Maksim_RIBO-02-21_Variant_5</string>
+    <string name="str">Введите строку</string>
+    <string name="flip">Перевернуть</string>
+    <string name="delete">Удалить гласные буквы</string>
+    <string name="increase">Увеличить четные буквы</string>
+</resources>
